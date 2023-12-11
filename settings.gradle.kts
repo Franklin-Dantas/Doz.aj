@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "doz.ag"
+rootProject.name = "LojaSticker"
 include(":app")
+ 

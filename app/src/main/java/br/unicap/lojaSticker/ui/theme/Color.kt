@@ -1,4 +1,4 @@
-package com.example.dozag.ui.theme
+package br.unicap.lojasticker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
